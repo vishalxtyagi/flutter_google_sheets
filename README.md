@@ -116,7 +116,7 @@ await cell.update('New Value');
 
 - This package uses the official [googleapis](https://pub.dev/packages/googleapis) package for API access
 - Authentication is handled via [googleapis_auth](https://pub.dev/packages/googleapis_auth)
-- Report issues on [GitHub](https://github.com/your-username/flutter_google_sheets/issues)
+- Report issues on [GitHub](https://github.com/vishalxtyagi/flutter_google_sheets/issues)
 - Contributions are welcome!
 
 ## License
