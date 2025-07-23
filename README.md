@@ -1,8 +1,3 @@
-vishalxtyagi: gneerate me the REAdme file content based on the package
-
-Workspace: Collecting workspace informationBased on your package, here's a comprehensive README file for the Flutter Google Sheets package:
-
-```markdown
 # Flutter Google Sheets
 
 A Flutter package for interacting with Google Sheets API v4, providing a simple interface to read, write, and manipulate Google Spreadsheets.
